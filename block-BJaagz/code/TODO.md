@@ -10,6 +10,7 @@ function forEach() {}
 forEach(['Sam', 'Jon', 'Arya'], (name, i, arr) =>
   console.log(name + name, i, arr)
 );
+console.log("testing")
 ```
 
 2. Implement `map` array method using Array.reduce
