@@ -10,7 +10,7 @@ Have `map` return a new array filled with values that are the result of the 'cal
 
 ```js
 // Your code goes here
-
+console.log("testing");
 // Test Your Code
 function multiplyByTwo(n) {
   return n * 2;
