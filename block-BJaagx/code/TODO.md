@@ -55,6 +55,7 @@ console.log(
     return text.toUpperCase();
   })
   console.log("testing");
+  console.log(123)
 );
 // Output: "LEARNING TO FLY"
 console.log(
