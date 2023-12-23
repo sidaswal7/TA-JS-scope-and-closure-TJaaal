@@ -21,6 +21,7 @@ function union(arrays) {}
 // Test
 console.log(
   union([5, 10, 15], [15, 88, 1, 5, 7], [100, 15, 10, 1, 5])
+  console.log("testing")
 );
 // should log: [5, 10, 15, 88, 1, 7, 100]
 ```
