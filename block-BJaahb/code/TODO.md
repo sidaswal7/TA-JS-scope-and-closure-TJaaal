@@ -11,6 +11,7 @@ function outer() {
 }
 let getSum = outer();
 let num = getSum();
+console.log("testing");
 ```
 
 2.
