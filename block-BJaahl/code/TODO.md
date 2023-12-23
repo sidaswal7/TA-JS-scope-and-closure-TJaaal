@@ -8,6 +8,7 @@ function once(cb) {
 // TEST
 function sayHello() {
   alert('Call me once!');
+  console.log("testing")
 }
 let log = once(sayHello);
 log(); // alert message "You can only call me once!"
