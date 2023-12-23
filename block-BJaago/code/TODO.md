@@ -15,6 +15,7 @@ function getFullName(first, last) {
 function sayHelloToUser(name) {
   return `Hello ${name}, How are you doing?`;
 }
+console.log("testing");
 
 var fullName = getFullName(firstName, lastName);
 var jon = getFullName('John', 'Snow');
