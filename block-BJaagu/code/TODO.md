@@ -12,6 +12,8 @@ Find the output of the code snippets below:
 console.log(numA + numB); //OUTPUT
 let numA = 21,
   numB = 30;
+
+console.log("testing");
 ```
 
 Find the output of the code snippets below:
