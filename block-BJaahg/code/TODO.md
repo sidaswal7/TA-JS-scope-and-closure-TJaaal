@@ -13,6 +13,7 @@ console.log(
   window.firstName,
   window.lastName,
   window.knownAs
+  console.log("test");
 );
 ```
 
