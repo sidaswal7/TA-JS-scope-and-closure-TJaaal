@@ -12,6 +12,7 @@ console.log(
     ['HI', 'Howdy', 'BYE', 'LATER', 'hello'],
     function (str) {
       return str.toUpperCase();
+      console.log("testing")
     }
   )
 ); // should log: { hi: 'HI', bye: 'BYE', later: 'LATER' }
