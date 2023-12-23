@@ -11,6 +11,7 @@ var username = 'Arya';
 let brothers = ['John', 'Ryan', 'Bran'];
 
 console.log(username, brothers[0]);
+console.log("testing")
 
 function sayHello(name) {
   return `Hello ${name}`;
